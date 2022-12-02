@@ -1,4 +1,4 @@
-The final project, both the notebook and the required data, can be found under the folder "Final Submission". The submission is a single notebook that handles all the data cleaning, processing, model training, testing and final plotting. 
+The final project, both the notebook and the required data, can be found under the folder "Final Submission". The submission is a single notebook that handles all the data cleaning, processing, model training, testing and final plotting. Downloading the data and running all of the cells within the notebook results in the display of all of our results. 
 
 As it relates to tasks:
 - Hayden was in charge of data collection, he proposed and presented the methodology and was in charge of the final plots. 
