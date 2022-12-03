@@ -6,4 +6,4 @@ As it relates to tasks:
 - Rainy Collaborated in data cleaning and processing as well as putting the presentation together. 
 - Lorenzo set up the github repository, coded the multiple linear regression models, presented the results in class and is writting this document. 
 - Richard set up the introduction of our presentation and gave the context for our project, he was also involved in the initial coding for the model. 
-- Theron ? 
+- Theron helped with the formatting of the code. He worked on introducing the topic and making the noteboook clear, and informative. He also wrote the conclusion and helped with the analysis of the results. 
